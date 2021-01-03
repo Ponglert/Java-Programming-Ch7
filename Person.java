@@ -1,7 +1,7 @@
 package testch7_1;
 
 public class Person {
-	public String name;
+    public String name;
     public int age;
     float speed = 4.0f;
 
