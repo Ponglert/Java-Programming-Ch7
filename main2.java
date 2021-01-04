@@ -6,7 +6,7 @@ public class main2 {
 		ExampleStatic.staticMethod();
 		ExampleStatic object = new ExampleStatic();
 		object.nonStaticMethod();
-
+		object.finalMethod();
 	}
 
 }
